@@ -1,3 +1,4 @@
+<?php
 class Route {
   public $id = integer;
   public $start = array();
